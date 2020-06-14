@@ -1,0 +1,9 @@
+1 -- Create any blank database in phpMyAdmin and change the credentials in in the login.php
+     and database name file.
+
+2 -- Copy the unzipped folder PhpAppFinal in xampp/htdocs.
+
+3 -- From localhost run main.php.
+
+4 -- Choose file 29m.csv.
+
